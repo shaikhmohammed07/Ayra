@@ -125,17 +125,11 @@ Fully responsive across:
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 ## 🙋‍♂️ Author
 
 **Shaikh Mohammed**  
 Frontend Developer  
-📧 [GitHub Profile](https://github.com/your-username)
+📧 [GitHub Profile](https://github.com/shaikhmohammed07)
 
 ---
 
