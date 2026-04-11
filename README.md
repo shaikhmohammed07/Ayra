@@ -8,8 +8,8 @@ A fully responsive, visually rich **jewellery brand landing page** built with pu
 
 ## 🌟 Live Preview
 
-<!-- Add your live link here once deployed -->
-> 🔗 Coming soon...
+
+> 🔗 https://ayra-pi.vercel.app/
 
 ---
 
