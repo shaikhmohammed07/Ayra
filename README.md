@@ -76,7 +76,7 @@ No build step required! Just open the file in a browser.
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/jewellery-landing.git
+git clone https://github.com/shaikhmohammed07/jewellery-landing.git
 
 # Open in browser
 # Simply double-click index.html
