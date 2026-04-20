@@ -129,7 +129,7 @@ Fully responsive across:
 
 **Shaikh Mohammed**  
 Frontend Developer  
-📧 [GitHub Profile](https://github.com/shaikhmohammed07)
+📧 [GitHub Profile](#)
 
 ---
 
